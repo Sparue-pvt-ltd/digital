@@ -24,8 +24,8 @@ const Routing = () => {
         <Route path="/pricing" component={Pricing} />
         <Route path="/case-studies" component={CaseStudies} />
         <Route path="/contacts" component={Contacts} />
-        <Route path="/service/:id" component={SingleService} />
-        <Route path="/case-study/:id" component={SingleCaseStudy} />
+        <Route path="/service:id" component={SingleService} />
+        <Route path="/case-study:id" component={SingleCaseStudy} />
         <Route path="*" component={Home} />
       </Switch>
     </Router>

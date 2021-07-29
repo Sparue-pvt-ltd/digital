@@ -9,7 +9,7 @@ const myHTML = `
 
         <!-- SERVICE BOX #1 -->
         <div class="col-sm-6 col-lg-3">
-            <a href="/service/1">
+            <a href="/service1">
                 <div class="sbox-2 wow fadeInUp" data-wow-delay="0.4s">
 
                     <!-- Icon  -->
@@ -28,7 +28,7 @@ const myHTML = `
 
         <!-- SERVICE BOX #2 -->
         <div class="col-sm-6 col-lg-3">
-            <a href="/service/2">
+            <a href="/service2">
                 <div class="sbox-2 wow fadeInUp" data-wow-delay="0.6s">
 
                     <!-- Icon  -->
@@ -47,7 +47,7 @@ const myHTML = `
 
         <!-- SERVICE BOX #3 -->
         <div class="col-sm-6 col-lg-3">
-            <a href="/service/3">
+            <a href="/service3">
                 <div class="sbox-2 wow fadeInUp" data-wow-delay="0.8s">
 
                     <!-- Icon  -->
@@ -66,7 +66,7 @@ const myHTML = `
 
         <!-- SERVICE BOX #4 -->
         <div class="col-sm-6 col-lg-3">
-            <a href="/service/4">
+            <a href="/service4">
                 <div class="sbox-2 wow fadeInUp" data-wow-delay="1s">
 
                     <!-- Icon  -->
@@ -85,7 +85,7 @@ const myHTML = `
 
         <!-- SERVICE BOX #5 -->
         <div class="col-sm-6 col-lg-3">
-            <a href="/service/5">
+            <a href="/service5">
                 <div class="sbox-2 wow fadeInUp" data-wow-delay="0.4s">
 
                     <!-- Icon  -->
@@ -104,7 +104,7 @@ const myHTML = `
 
         <!-- SERVICE BOX #6 -->
         <div class="col-sm-6 col-lg-3">
-            <a href="/service/6">
+            <a href="/service6">
                 <div class="sbox-2 wow fadeInUp" data-wow-delay="0.6s">
 
                     <!-- Icon  -->
@@ -123,7 +123,7 @@ const myHTML = `
 
         <!-- SERVICE BOX #7 -->
         <div class="col-sm-6 col-lg-3">
-            <a href="/service/7">
+            <a href="/service7">
                 <div class="sbox-2 wow fadeInUp" data-wow-delay="0.8s">
 
                     <!-- Icon  -->
@@ -142,7 +142,7 @@ const myHTML = `
 
         <!-- SERVICE BOX #8 -->
         <div class="col-sm-6 col-lg-3">
-            <a href="/service/8">
+            <a href="/service8">
                 <div class="sbox-2 wow fadeInUp" data-wow-delay="1s">
 
                     <!-- Icon  -->
@@ -161,7 +161,7 @@ const myHTML = `
 
         <!-- SERVICE BOX #9 -->
         <div class="col-sm-6 col-lg-3">
-            <a href="/service/9">
+            <a href="/service9">
                 <div class="sbox-2 wow fadeInUp" data-wow-delay="0.4s">
 
                     <!-- Icon  -->
@@ -180,7 +180,7 @@ const myHTML = `
 
         <!-- SERVICE BOX #10 -->
         <div class="col-sm-6 col-lg-3">
-            <a href="/service/10">
+            <a href="/service10">
                 <div class="sbox-2 wow fadeInUp" data-wow-delay="0.6s">
 
                     <!-- Icon  -->
@@ -199,7 +199,7 @@ const myHTML = `
 
         <!-- SERVICE BOX #11 -->
         <div class="col-sm-6 col-lg-3">
-            <a href="/service/11">
+            <a href="/service11">
                 <div class="sbox-2 wow fadeInUp" data-wow-delay="0.8s">
 
                     <!-- Icon  -->
@@ -218,7 +218,7 @@ const myHTML = `
 
         <!-- SERVICE BOX #12 -->
         <div class="col-sm-6 col-lg-3">
-            <a href="/service/12">
+            <a href="/service12">
                 <div class="sbox-2 wow fadeInUp" data-wow-delay="1s">
 
                     <!-- Icon  -->
