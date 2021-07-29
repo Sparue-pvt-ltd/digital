@@ -20,9 +20,17 @@ const myHTML = `<section id="contacts-2" class="bg-primary bg-map contacts-secti
                     <h5 class="h5-lg">Our Location:</h5>
 
                     <!-- Title -->
-                    <p>Merteex Processing, Inc</p>
-                    <p>121 King Street, Melbourne,</p>
-                    <p>Victoria 3000 Australia</p>
+                    <p><strong>US Address:</strong></p>
+                    <p>30 N Gould St</p>
+                    <p>STE R Sheridan, Wyoming 82801</p>
+                    <br/>
+                    <p><strong>Second Address:</strong></p>
+                    <p>2400 N 2nd St.,</p>
+                    <p>Minneapolis, MN 55414</p>
+                    <br/>
+                    <p><strong>India Address:</strong></p>
+                    <p>2nd Floor, H No 2-56/10/A, Chanda Naik Nager,</p>
+                    <p>Near Ayyappa society Madhapur, Hyderabad</p>
 
                 </div>
 

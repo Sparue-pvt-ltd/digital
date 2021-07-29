@@ -228,7 +228,7 @@ const myHTML = `<section id="faqs-1" class="wide-100 faqs-section division">
   <!-- MORE QUESTIONS BUTTON -->
   <div class="row">
     <div class="col-md-12 text-center more-questions">
-      <h5>Still have a question? <a href="contacts.html" class="primary-color">Ask your question
+      <h5>Still have a question? <a href="/contacts" class="primary-color">Ask your question
           here</a></h5>
     </div>
   </div>

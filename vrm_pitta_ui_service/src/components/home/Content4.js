@@ -224,7 +224,7 @@ const myHTML = `
 				<!-- ALL PROJECTS BUTTON -->
 				<div class="row">
 					<div class="col-md-12 text-center all-projects-btn">
-						<a href="case-studies-2.html" class="btn btn-md btn-primary tra-black-hover">See All Case
+						<a href="/case-studies" class="btn btn-md btn-primary tra-black-hover">See All Case
 							Studies</a>
 					</div>
 				</div>

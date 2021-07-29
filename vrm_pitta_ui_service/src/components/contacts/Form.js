@@ -51,8 +51,17 @@ const myHTML = `
                 <!-- LOCATION -->
                 <div class="contact-box wow fadeInUp" data-wow-delay="0.4s">
                     <h5 class="h5-sm">Our Location:</h5>
-                    <p class="grey-color">Merteex Processing, Inc</p>														
-                    <p class="grey-color">121 King Street, Melbourne, <br /> Victoria 3000 Australia</p>
+                    <p class="grey-color"><strong>US Address:</strong></p>
+                    <p class="grey-color">30 N Gould St</p>
+                    <p class="grey-color">STE R Sheridan, Wyoming 82801</p>
+                    <br/>
+                    <p class="grey-color"><strong>Second Address:</strong></p>
+                    <p class="grey-color">2400 N 2nd St.,</p>
+                    <p class="grey-color">Minneapolis, MN 55414</p>
+                    <br/>
+                    <p class="grey-color"><strong>India Address:</strong></p>
+                    <p class="grey-color">2nd Floor, H No 2-56/10/A, Chanda Naik Nager,</p>
+                    <p class="grey-color">Near Ayyappa society Madhapur, Hyderabad</p>
                 </div>
 
                 <!-- PHONES -->
