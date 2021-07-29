@@ -7,7 +7,7 @@ const myHTML = `
     <div class="wsmobileheader clearfix">
         <a id="wsnavtoggle" class="wsanimated-arrow"><span></span></a>
         <span class="smllogo smllogo-black"><img src="./assets/images/vrm_pitta.png" width="80" height="40" alt="mobile-logo"/></span>
-        <span class="smllogo smllogo-white"><img src="./assets/images/vrm_pitta.png" width="80" height="40" alt="mobile-logo"/></span>
+        
         <a href="tel:123456789" class="callusbtn"><i class="fas fa-phone"></i></a>
      </div>
 
@@ -15,7 +15,7 @@ const myHTML = `
         <div class="wsmainwp clearfix">
 
             <div class="desktoplogo"><a href="/" class="logo-black"><img src="./assets/images/vrm_pitta.png" width="80" height="40" alt="header-logo"/></a></div>
-            <div class="desktoplogo"><a href="/" class="logo-white"><img src="./assets/images/vrm_pitta.png" width="80" height="40" alt="header-logo"/></a></div>
+            <div class="desktoplogo"><a href="/" class="logo-white"><img src="./assets/images/vrm_pitta_white.png" width="80" height="40" alt="header-logo"/></a></div>
 
               <nav class="wsmenu clearfix blue-header">
                 <ul class="wsmenu-list">
@@ -23,6 +23,8 @@ const myHTML = `
                     <li class="nl-simple" aria-haspopup="true"><a href="/about">About</a></li>
 
                     <li class="nl-simple" aria-haspopup="true"><a href="/services">Services</a></li>
+
+                    <li class="nl-simple" aria-haspopup="true"><a href="/pricing">Pricing</a></li>
 
                     <li class="nl-simple" aria-haspopup="true"><a href="/case-studies">Case Studies</a></li>
 

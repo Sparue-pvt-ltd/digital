@@ -39,7 +39,7 @@ const myHTML = `
                 </ul>
 
                 <!-- Button -->
-                <a href="resources.html" class="btn btn-md btn-primary tra-black-hover">Our Resources</a>
+                <a href="/services" class="btn btn-md btn-primary tra-black-hover">Our Resources</a>
 
             </div>
         </div> <!-- END TEXT BLOCK -->

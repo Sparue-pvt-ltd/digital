@@ -8,7 +8,7 @@ import Statistic from "../components/about/Statistic";
 import Tabs from "../components/about/Tabs";
 import Testimonials from "../components/about/Testimonials";
 import Brands from "../components/common/Brands";
-import Calltoaction from "../components/about/Calltoaction";
+import Calltoaction from "../components/common/Calltoaction";
 
 function About() {
   return (

@@ -10,7 +10,9 @@ import About from './pages/About';
 import Services from './pages/Services'
 import CaseStudies from './pages/CaseStudies'
 import Contacts from './pages/Contacts'
-// import SingleBlog from './pages/SingleBlog';
+import Pricing from './pages/Pricing'
+import SingleService from './pages/SingleService';
+import SingleCaseStudy from './pages/SingleCaseStudy';
 
 const Routing = () => {
   return(
@@ -19,9 +21,11 @@ const Routing = () => {
         <Route exact path="/" component={Home} />
         <Route path="/about" component={About} />
         <Route path="/services" component={Services} />
+        <Route path="/pricing" component={Pricing} />
         <Route path="/case-studies" component={CaseStudies} />
         <Route path="/contacts" component={Contacts} />
-        {/* <Route path="/:id" component={SingleBlog} /> */}
+        <Route path="/service/:id" component={SingleService} />
+        <Route path="/case-study/:id" component={SingleCaseStudy} />
         <Route path="*" component={Home} />
       </Switch>
     </Router>
