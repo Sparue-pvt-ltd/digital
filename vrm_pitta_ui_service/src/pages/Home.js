@@ -9,9 +9,9 @@ import Content4 from "../components/home/Content4";
 import Testimonials1 from "../components/home/Testimonials1";
 import Content5 from "../components/home/Content5";
 import Testimonials2 from "../components/home/Testimonials2";
-import Video from "../components/home/Video";
+// import Video from "../components/home/Video";
 import Pricing from "../components/home/Pricing";
-import Brands from "../components/common/Brands";
+// import Brands from "../components/common/Brands";
 import Faq from "../components/home/Faq";
 import Contact from "../components/home/Contact";
 function Home() {
@@ -28,9 +28,9 @@ function Home() {
         <Testimonials1/>
         <Content5/>
         <Testimonials2/>
-        <Video/>
+        {/* <Video/> */}
         <Pricing/>
-        <Brands/>
+        {/* <Brands/> */}
         <Faq/>
         <Contact/>
       </DefaultLayout>
