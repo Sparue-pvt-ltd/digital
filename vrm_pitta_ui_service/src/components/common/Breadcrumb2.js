@@ -12,8 +12,7 @@ class Breadcrumb extends Component {
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb">
                             <li class="breadcrumb-item"><a href="/" class="primary-color">Home</a></li>
-                            <li class="breadcrumb-item"><a href="/services" class="primary-color">Services</a></li>
-                            <li class="breadcrumb-item active" aria-current="page">{this.props.content}</li>
+                            <li class="breadcrumb-item"><a href={this.props.content1} class="primary-color">{this.props.content}</a></li>
                         </ol>
                     </nav>
                 </div>

@@ -8,11 +8,11 @@ import { BrowserRouter as Router, Switch, Route} from "react-router-dom";
 import Home from './pages/Home';
 import About from './pages/About';
 import Services from './pages/Services'
-import CaseStudies from './pages/CaseStudies'
+import Blogs from './pages/Blogs'
 import Contacts from './pages/Contacts'
 import Pricing from './pages/Pricing'
 import SingleService from './pages/SingleService';
-import SingleCaseStudy from './pages/SingleCaseStudy';
+import SingleBlog from './pages/SingleBlog';
 
 const Routing = () => {
   return(
@@ -22,10 +22,10 @@ const Routing = () => {
         <Route path="/about" component={About} />
         <Route path="/services" component={Services} />
         <Route path="/pricing" component={Pricing} />
-        <Route path="/case-studies" component={CaseStudies} />
+        <Route path="/blogs" component={Blogs} />
         <Route path="/contacts" component={Contacts} />
         <Route path="/service:id" component={SingleService} />
-        <Route path="/case-study:id" component={SingleCaseStudy} />
+        <Route path="/single-post:id" component={SingleBlog} />
         <Route path="*" component={Home} />
       </Switch>
     </Router>

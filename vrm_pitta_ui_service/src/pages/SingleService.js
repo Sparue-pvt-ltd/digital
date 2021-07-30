@@ -2,7 +2,7 @@ import CommonLayout from "../layouts/CommonLayout";
 import Hero from "../components/common/Hero";
 import Breadcrumb2 from "../components/common/Breadcrumb2";
 import Calltoaction from "../components/common/Calltoaction";
-import Content from "../components/SingleService/Content";
+import Content from "../components/singleservice/Content";
 import { useParams } from "react-router-dom";
 
 function SingleService() {
@@ -77,8 +77,7 @@ function SingleService() {
           <Hero cssId="service-details-page" heroTitle="About Vrm Pitta" heroDescription="We provide professional PPC, Web and SEO services to
                     increase online visibility and qualified leads to your
                     business"/>
-
-          <Breadcrumb2 content="About"/>
+          <Breadcrumb2 content="Services" content1="/services"/>
           <Content serviceTitle={data[id-1].serviceTitle} servicedescription={data[id-1].servicedescription} serviceImageURL={data[id-1].serviceImageURL} />
           <Calltoaction/>
         </div>
