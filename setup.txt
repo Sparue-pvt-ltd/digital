@@ -1,0 +1,5 @@
+Run the cmd in production in same sequence
+
+> npm install
+> npm run build
+> npm run prod
