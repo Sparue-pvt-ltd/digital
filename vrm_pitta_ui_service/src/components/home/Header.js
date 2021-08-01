@@ -32,17 +32,19 @@ const myHTML = `
 													<div class="col-md-12 col-lg-3">
 
 														<!-- Title -->
-														<h3 class="title">Marketing Solutions:</h3>
+														<h3 class="title">Featured Services :</h3>
 
-		               									<ul class="link-list">   						                    
-										                    <li><a href="/service1">Search Engine Optimization</a></li>
-										                    <li><a href="/service2">Web Design & Development</a></li>	
-										                    <li><a href="/service3">Social Media Marketing</a></li>							                
-										                    <li><a href="/service4">Pay per Click (PPC)</a></li>
-										                    <li><a href="/service5">Video Production</a></li>
-										                    <li><a href="/service6">Content Marketing</a></li>	
-										                    <li><a href="/service7">Email Marketing Campaigns</a></li>	
-										                </ul>
+														<ul class="link-list">
+														<li><a href="/service1">Search Engine Optimisation</a></li>
+														<li><a href="/service2">Content Writing Services</a></li>
+														<li><a href="/service3">App Search Optimisation</a></li>
+														<li><a href="/service4">Digital Strategy & Consulting</a></li>
+														<li><a href="/service5">Creative Design Services</a></li>
+														<li><a href="/service6">React.js Development</a></li>
+														<li><a href="/service7">Node.js Development</a></li>
+														<li><a href="/service8">Responsive Web Design</a></li>
+														<li><a href="/service9">Intuitive UI / UX designs</a></li>
+													   </ul>
 
 										            </div>	<!-- END MEGAMENU QUICK LINKS -->
 
