@@ -51,7 +51,7 @@ const myHTML = `
 									                <div class="col-md-12 col-lg-5">
 
 									                	<!-- Title -->
-									                    <h3 class="title">Featured News:</h3>
+									                    <h3 class="title">Featured Blog:</h3>
 
 									                    <!-- Image -->
 									                    <div class="fluid-width-video-wrapper mb-15"><img src="./assets/images/blog/featured-news.jpg" alt="featured-news" /></div>
@@ -73,7 +73,7 @@ const myHTML = `
 									                <div class="col-md-12 col-lg-4">
 
 									                	<!-- Title -->
-	                    								<h3 class="title">Latest News:</h3>
+	                    								<h3 class="title">Latest Blogs:</h3>
 
 	                    								<!-- Latest News -->
 	                    								<ul class="latest-news">
