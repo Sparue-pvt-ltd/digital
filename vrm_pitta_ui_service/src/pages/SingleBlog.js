@@ -9,6 +9,7 @@ function SingleBlog() {
     <>
       <CommonLayout>
         <div class="inner-page-wrapper">
+          
           <Hero cssId="project-details-page" heroTitle="About Vrm Pitta" heroDescription="We provide professional PPC, Web and SEO services to
                     increase online visibility and qualified leads to your
                     business"/>
