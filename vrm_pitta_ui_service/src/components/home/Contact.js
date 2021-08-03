@@ -29,7 +29,7 @@ const myHTML = `<section id="contacts-2" class="bg-primary bg-map contacts-secti
                     <p>Minneapolis, MN 55414</p>
                     <br/>
                     <p><strong>India Address:</strong></p>
-                    <p>2nd Floor, H No 2-56/10/A, Chanda Naik Nager,</p>
+                    <p>2nd Floor, H No 2-56/10/A, Chanda Naik Nagar,</p>
                     <p>Near Ayyappa society Madhapur, Hyderabad</p>
 
                 </div>
