@@ -9,11 +9,10 @@ const myHTML = `
         <div class="col-xl-10 offset-xl-1">
             <div class="hero-txt text-center white-color">
 
-                <h3>Get more sales with SEO, PPC, and Email Marketing</h3>
+                <h3>The best Digital Advertising Agencies</h3>
 
-                <p>Egestas magna egestas magna ipsum vitae purus ipsum primis in cubilia laoreet augue
-                    luctus
-                    magna dolor luctus undo magna an dolor
+                <p>
+                    We are focusing on UX design, branding, web design and development, digital marketing, social media marketing, SEO, PPC and etc.
                 </p>
 
                 <div class="form-holder text-center">
@@ -39,11 +38,13 @@ const myHTML = `
                     </form>
                 </div>
 
+                <!-- 
                 <div class="hero-links">
                     <span>No credit card required</span>
                     <span>* <a href="#">See FAQ</a> for more details</span>
                     <span><a href="#">Privacy Policy</a></span>
-                </div>
+                </div> 
+                -->
 
             </div>
         </div>

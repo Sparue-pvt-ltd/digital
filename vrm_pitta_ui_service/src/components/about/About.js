@@ -23,31 +23,11 @@ const myHTML = `
                 <h4 class="h4-xl">We're providing the best SEO services for your website</h4>
 
                 <!-- Text -->
-                <p>An enim nullam tempor sapien gravida donec pretium ipsum porta justo integer at odio 
-                    velna vitae auctor integera congue magna at purus pretium ligula rutrum luctus ultrice 
-                    a gravida lectus suscipit gestas magna suscipit luctus undo
+                <p>
+                VRMP used SEO and PPC to increase overall traffic and, in conjunction with the new CRO-focused website, were able to increase online leads.
                 </p>
 
-                <!-- QUOTE -->
-                <div class="quote quote-primary">
-
-                    <!-- Quote Text -->
-                    <p>"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean magna ligula eget dolor 
-                        suscipit egestas at viverra dolor iaculis luctus magna suscipit egestas "									   
-                    </p>
-                            
-                    <!-- Quote Avatar -->
-                    <div class="quote-avatar">
-                        <img src="images/quote-avatar.jpg" alt="quote-avatar">
-                    </div>
-                                
-                    <!-- Quote Author -->
-                    <div class="quote-author">
-                        <h5 class="h5-xs">Sean Mcmarthy </h5>
-                        <span>Founder of Metreex</span>
-                    </div>	
-                
-                </div>					
+               		
                 
             </div>
         </div>	  <!-- END ABOUT TEXT -->

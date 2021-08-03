@@ -15,9 +15,9 @@ const myHTML = `
                 <h3 class="h3-xs">Improve your search ranking now!</h3>
 
                 <!-- Text -->
-                <p class="p-md">Donec vel sapien augue integer urna vel turpis cursus porta, mauris sed augue 
+                <!--<p class="p-md">Donec vel sapien augue integer urna vel turpis cursus porta, mauris sed augue 
                     luctus dolor velna auctor congue tempus magna integer
-                </p>
+                </p>-->
 
             </div>
         </div>	<!-- END CALL TO ACTION TEXT -->

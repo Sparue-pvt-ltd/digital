@@ -16,45 +16,14 @@ const myHTML = `
 
 							<!-- Text -->
 							<div class="cbox-1">
-								<i class="fas fa-check grey-color"></i>
 								<div class="cbox-1-txt">
-									<p>Semper lacus cursus porta, feugiat primis ligula risus auctor and rhoncus in
-										ultrice ligula
-										purus ipsum primis in cubilia
-									</p>
-								</div>
-							</div>
+									<p>
+									VRMP SEO solutions do more than just increase the amount and quality of traffic to your website. They also increase product visibility, customer trust, customer loyalty, conversions, and total return on investment.
 
-							<!-- Text -->
-							<div class="cbox-1">
-								<i class="fas fa-check grey-color"></i>
-								<div class="cbox-1-txt">
-									<p>Integer congue magna at pretium purus pretium ligula rutrum and luctus risus eros
-										dolor auctor
-										ipsum blandit purus vehicula magna and luctus tempor quisque turpis magna ligula
-									</p>
-								</div>
-							</div>
-
-							<!-- Text -->
-							<div class="cbox-1">
-								<i class="fas fa-check grey-color"></i>
-								<div class="cbox-1-txt">
-									<p>An enim nullam tempor sapien gravida donec enim blandit ipsum at porta justo
-										integer velna
-										vitae auctor integer congue magna pretium purus pretium magnis nulla dolor
-										sapien
-									</p>
-								</div>
-							</div>
-
-							<!-- Text -->
-							<div class="cbox-1">
-								<i class="fas fa-check grey-color"></i>
-								<div class="cbox-1-txt">
-									<p>Integer congue magna at pretium purus pretium ligula rutrum and luctus risus eros
-										dolor auctor
-										ipsum blandit purus
+									However, we do not believe in solutions that are the same size.
+									
+									Instead, we offer a variety of services so you can choose the right amount of SEO for your needs. When choosing an online SEO marketing plan, we will work directly with you to find specific goals you have for your organization so that we can achieve them as a whole.
+									
 									</p>
 								</div>
 							</div>

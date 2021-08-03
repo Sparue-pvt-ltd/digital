@@ -23,19 +23,20 @@ const myHTML = `
                 <h4 class="h4-xl">Integrated marketing solutions that business growth</h4>
 
                 <!-- Text -->
-                <p>An enim nullam tempor sapien gravida donec pretium ipsum porta justo integer and
-                    odio velna vitae auctor integera congue magna at purus pretium ligula rutrum luctus
-                    and ultrice a gravida lectus
+                <p>
+                We focus on growth, so an Integrated Marketing Plan, also known as IMC, is critical for your company's success 
+                and client engagement. To stay ahead of the competition, your marketing strategy should include a multi-channel 
+                and multi-media approach. To maintain a consistent brand message, it is essential to implement an integrated 
+                marketing communications plan.
                 </p>
 
                 <!-- List -->
                 <ul class="ico-list mb-10">
-                    <li><i class="fas fa-check grey-color"></i> <span>Vitae auctor integer congue magna at
-                            pretium</span></li>
-                    <li><i class="fas fa-check grey-color"></i> <span>Integer congue magna and pretium purus
-                            ligula</span></li>
-                    <li><i class="fas fa-check grey-color"></i> <span>Sagittis congue augue egestas volutpat
-                            egestas</span></li>
+                    <li><i class="fas fa-check grey-color"></i> <span>Reduces marketing costs.</span></li>
+                    <li><i class="fas fa-check grey-color"></i> <span>Increases credibility.</span></li>
+                    <li><i class="fas fa-check grey-color"></i> <span>Increases recall and purchase frequency.</span></li>
+                    <li><i class="fas fa-check grey-color"></i> <span>Connects with your target audience.</span></li>
+                    <li><i class="fas fa-check grey-color"></i> <span>Enhances clarity.</span></li>
                 </ul>
 
                 <!-- Button -->

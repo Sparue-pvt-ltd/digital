@@ -14,21 +14,27 @@ const myHTML = `
         <!-- Title -->
         <h4 class="h4-xl">We will help your business achieve predictable growth</h4>
 
+        <h6>In this ever-changing environment, marketers must constantly update and refine digital marketing strategies to avoid becoming stale or lost in the noise. </h6>
+
         <!-- List -->
         <ul class="txt-list mb-15">
 
-          <li>Vitae auctor integer congue magna at pretium blandit porta justo integer. Feugiat a
-            ligula rutrum luctus primis ultrice
+          <li>
+            Concentrate on Conversion, Not Leads.
           </li>
 
-          <li>Integer congue magna at pretium purus a pretium ligula rutrum and luctus risus eros
-            dolor
-            auctor ipsum blandit purus vehicula magna luctus tempor quisque
+          <li>
+            Lay the Groundwork for Long-Term Value
           </li>
 
-          <li>Congue magna at pretium purus a pretium ligula rutrum and luctus risus luctus neque
-            purus
-            posuere neque at dolor primis
+          <li>
+            Increase your focus on customer service.
+          </li>
+          <li>
+            Design the Ultimate Purchasing Journey.
+          </li>
+          <li>
+            Understand when and how to go back and fine-tune processes.
           </li>
 
         </ul>

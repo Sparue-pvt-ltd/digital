@@ -75,18 +75,13 @@ class Testimonials1 extends Component {
                     <span>
                       They're communicative, honest, and reliably deliver
                       tangible results.
-                    </span>{" "}
-                    Etiam sapien sem at sagittis congue an augue massa varius
-                    egestas and suscipit magna a tempus undo aliquet a ligula
-                    magna suscipit vitae and rutrum luctus a risus ultrice
-                    luctus enim ipsum blandit porta justo integer mollislorem
-                    primis in orci"
+                    </span>
                   </p>
 
-                  <div class="review-4-author">
-                    <h5 class="h5-xs">Sean McMarthy, CEO</h5>
-                    <span class="lightgrey-color">Company Name</span>
-                  </div>
+                  {/* <div class="review-4-author">
+                    <h5 class="h5-xs">, CEO</h5>
+                    <span class="lightgrey-color">Vrm Pitta</span>
+                  </div> */}
                 </div>
               </div>
             </div>

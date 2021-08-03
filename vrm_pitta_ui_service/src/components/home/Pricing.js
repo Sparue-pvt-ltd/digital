@@ -114,7 +114,7 @@ const myHTML = `<section id="pricing-1" class="wide-60 pricing-section division"
                 </ul>
 
                 <!-- Pricing Table Button  -->
-                <a href="#" class="btn btn-tra-grey black-hover">Upgrade To Premium</a>
+                <1<a href="#" class="btn btn-tra-grey black-hover">Upgrade To Premium</a>
 
             </div>
         </div> <!-- END PRICE PLAN PRO -->
@@ -124,7 +124,7 @@ const myHTML = `<section id="pricing-1" class="wide-60 pricing-section division"
 
 
     <!-- PRICING NOTICE TEXT -->
-    <div class="row">
+    <!--<div class="row">
         <div class="col-lg-10 col-xl-8 offset-lg-1 offset-xl-2">
             <div class="pricing-notice text-center mb-40">
                 <p class="p-md"><span>Note!</span> Prices may vary from location to location due to local
@@ -132,7 +132,7 @@ const myHTML = `<section id="pricing-1" class="wide-60 pricing-section division"
                 </p>
             </div>
         </div>
-    </div>
+    </div>-->
 
 
 </div> <!-- End container -->

@@ -12,16 +12,16 @@ class Footer extends Component {
               <div class="footer-info mb-40">
                 <img
                   src="./assets/images/vrm_pitta.png"
-                  width="120"
-                  height="70"
+                  width="250"
+                  height="150"
                   alt="footer-logo"
                 />
 
-                <p>
+                {/* <p>
                   Aliquam orci a nullam tempor sapien gravida donec enim ipsum
                   porta justo velna an auctor undo congue magna laoreet augue
                   sapien
-                </p>
+                </p> */}
               </div>
             </div>
 
@@ -123,12 +123,12 @@ class Footer extends Component {
                   </li>
                   <li>
                     <p>
-                      <a href="tel:+918303871828">+91-8303871828</a>
+                      <a href="tel:+914042027115">+91-4042027115</a>
                     </p>
                   </li>
                   <li>
                     <p class="last-li">
-                      <a href="mailto:yourdomain@mail.com">hello@domain.com</a>
+                      <a href="mailto:yourdomain@mail.com">support@vrmpitta.com</a>
                     </p>
                   </li>
                 </ul>

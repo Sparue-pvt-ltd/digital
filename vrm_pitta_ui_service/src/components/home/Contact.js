@@ -52,9 +52,7 @@ const myHTML = `<section id="contacts-2" class="bg-primary bg-map contacts-secti
                     <h5 class="h5-lg">Quick Contacts:</h5>
 
                     <!-- Text -->
-                    <p>Phone: +12 3 3456 7890</p>
-                    <p>Fax: +12 9 8765 4321</p>
-                    <p><a href="mailto:yourdomain@mail.com">hello@yourdomain.com</a></p>
+                    <p>Phone: +91-4042027115</p>
 
                 </div>
 

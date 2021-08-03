@@ -11,7 +11,7 @@ const myHTML = `
 				    	<a id="wsnavtoggle" class="wsanimated-arrow"><span></span></a>
 				    	<span class="smllogo smllogo-black"><img src="./assets/images/vrm_pitta.png" width="80" height="40" alt="mobile-logo"/></span>
 				    	<span class="smllogo smllogo-white"><img src="./assets/images/vrm_pitta.png" width="80" height="40" alt="mobile-logo"/></span>
-				    	<a href="tel:123456789" class="callusbtn"><i class="fas fa-phone"></i></a>
+				    	<a href="tel:+914042027115" class="callusbtn"><i class="fas fa-phone"></i></a>
 				 	</div>
 
 
@@ -76,9 +76,9 @@ const myHTML = `
 															 businesses
 														</a>
 													</h5>
-													<p class="wsmwnutxt">Porta semper lacus cursus, feugiat primis ultrice in ligula risus auctor
-													   tempus feugiat dolor impedit magna...
-													</p>
+													<!--<p class="wsmwnutxt">Porta semper lacus cursus, feugiat primis ultrice in ligula risus auctor
+														tempus feugiat dolor impedit magna...
+													</p>-->
 
 												</div>	<!-- END MEGAMENU FEATURED NEWS -->
 
@@ -100,7 +100,7 @@ const myHTML = `
 
 															<!-- Text -->
 															<div class="post-summary">
-																<a href="/single-post2">Etiam sapien risus ante auctor tempus an accumsan...</a>
+																<a href="/single-post2">We offer unique SEO services to your organization ...</a>
 																<p>03 hours ago</p>
 															</div>
 
@@ -114,7 +114,7 @@ const myHTML = `
 
 															<!-- Text -->
 															<div class="post-summary">
-																<a href="/single-post3">Blandit tempor sapien ipsum, porta risus auctor justo...
+																<a href="/single-post3">Well-written, spoken content involves viewers ...
 																</a>
 																<p>Feb 02, 2020</p>
 															</div>
@@ -129,7 +129,7 @@ const myHTML = `
 
 															<!-- Text -->
 															<div class="post-summary">
-																<a href="/single-post4">Cursus risus an auctor risus laoreet undo auctor varius...</a>
+																<a href="/single-post4">Increase your user discovery; Tell your audience that you are here! ...</a>
 																<p>Jan 29, 2020</p>
 															</div>
 
@@ -154,8 +154,8 @@ const myHTML = `
 
 								    <!-- HEADER PHONE NUMBER -->
 								    <li class="nl-simple primary-scroll" aria-haspopup="true">
-								    	<a href="tel:+918303871828" class="last-link last-link-number">
-								    		<i class="fas fa-phone-square-alt"></i> +91-8303871828
+								    	<a href="tel:+914042027115" class="last-link last-link-number">
+								    		<i class="fas fa-phone-square-alt"></i> +91-4042027115
 								    	</a>
 								    </li>
 	        					</ul>

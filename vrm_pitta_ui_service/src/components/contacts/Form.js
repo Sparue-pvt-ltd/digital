@@ -67,8 +67,7 @@ const myHTML = `
                 <!-- PHONES -->
                 <div class="contact-box wow fadeInUp" data-wow-delay="0.6s">
                     <h5 class="h5-sm">Contact Phones:</h5>	
-                    <p class="grey-color">Phone : +12 3 3456 7890</p>
-                    <p class="grey-color">Fax : +12 9 8765 4321</p>
+                    <p class="grey-color">Phone : +91-4042027115</p>
                 </div>
 
                 <!-- WORKING HOURS -->
