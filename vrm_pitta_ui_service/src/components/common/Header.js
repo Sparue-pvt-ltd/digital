@@ -34,23 +34,23 @@ const myHTML = `
 												<div class="wsmegamenu clearfix halfmenu">
 													<div class="container-fluid">
 													<div class="row">
-													<!-- Links -->
-													<ul class="col-lg-6 col-md-12 col-xs-12 link-list">
-														<li><a href="/service-search-engine-optimisation">Search Engine Optimisation</a></li>
-														<li><a href="/service-content-writing-services">Conginntent Writing Services</a></li>
-														<li><a href="/service-app-search-optimisation">App Search Optimisation</a></li>
-														<li><a href="/service-digital-strategy-consulting">Creative Design Services</a></li>
-														<li><a href="/service-creative-design-services">Digital Strategy & Consulting</a></li>
-													</ul>
-				
-													<!-- Links -->
-													<ul class="col-lg-6 col-md-12 col-xs-12 link-list">
-														<li><a href="/service-react-development">React.js Development</a></li>
-														<li><a href="/service-node-development">Node.js Development</a></li>
-														<li><a href="/service-responsive-web-design">Responsive Web Design</a></li>
-														<li><a href="/service-intuitive-ui-designs">Intuitive UI / UX designs</a></li>
-													</ul>
-												</div>
+									<!-- Links -->
+                  <ul class="col-lg-6 col-md-12 col-xs-12 link-list">
+										<li><a href="/service-react-development">React.js Development</a></li>
+										<li><a href="/service-node-development">Node.js Development</a></li>
+										<li><a href="/service-responsive-web-design">Responsive Web Design</a></li>
+										<li><a href="/service-intuitive-ui-designs">Intuitive UI / UX designs</a></li>
+                    <li><a href="/service-creative-design-services">Digital Strategy & Consulting</a></li>
+									</ul>
+
+									<!-- Links -->
+									<ul class="col-lg-6 col-md-12 col-xs-12 link-list">
+									<li><a href="/service-creative-design-services">Creative Design Services</a></li>
+                      <li><a href="/service-content-writing-services">Content Writing Services</a></li>
+                      <li><a href="/service-app-search-optimisation">App Search Optimisation</a></li>
+                      <li><a href="/service-search-engine-optimisation">Search Engine Optimisation</a></li>
+									</ul>
+								</div>
 											</div>
 										</div>
 									</li>	<!-- END DROPDOWN MENU -->
