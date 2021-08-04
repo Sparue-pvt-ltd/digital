@@ -31,24 +31,24 @@ const myHTML = `
 	        					<ul class="wsmenu-list">
 
 									<li aria-haspopup="true"><a href="/services">Services <span class="wsarrow"></span></a>
-										<div class="wsmegamenu clearfix halfmenu">
-											<div class="container-fluid">
-												<div class="row">
+												<div class="wsmegamenu clearfix halfmenu">
+													<div class="container-fluid">
+													<div class="row">
 													<!-- Links -->
 													<ul class="col-lg-6 col-md-12 col-xs-12 link-list">
-														<li><a href="/service1">Search Engine Optimisation</a></li>
-														<li><a href="/service2">Content Writing Services</a></li>
-														<li><a href="/service3">App Search Optimisation</a></li>
-														<li><a href="/service5">Creative Design Services</a></li>
-														<li><a href="/service4">Digital Strategy & Consulting</a></li>
+														<li><a href="/service-search-engine-optimisation">Search Engine Optimisation</a></li>
+														<li><a href="/service-content-writing-services">Conginntent Writing Services</a></li>
+														<li><a href="/service-app-search-optimisation">App Search Optimisation</a></li>
+														<li><a href="/service-digital-strategy-consulting">Creative Design Services</a></li>
+														<li><a href="/service-creative-design-services">Digital Strategy & Consulting</a></li>
 													</ul>
-
+				
 													<!-- Links -->
 													<ul class="col-lg-6 col-md-12 col-xs-12 link-list">
-														<li><a href="/service6">React.js Development</a></li>
-														<li><a href="/service7">Node.js Development</a></li>
-														<li><a href="/service8">Responsive Web Design</a></li>
-														<li><a href="/service9">Intuitive UI / UX designs</a></li>
+														<li><a href="/service-react-development">React.js Development</a></li>
+														<li><a href="/service-node-development">Node.js Development</a></li>
+														<li><a href="/service-responsive-web-design">Responsive Web Design</a></li>
+														<li><a href="/service-intuitive-ui-designs">Intuitive UI / UX designs</a></li>
 													</ul>
 												</div>
 											</div>

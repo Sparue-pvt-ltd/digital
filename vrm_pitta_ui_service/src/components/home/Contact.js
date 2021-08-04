@@ -52,7 +52,9 @@ const myHTML = `<section id="contacts-2" class="bg-primary bg-map contacts-secti
                     <h5 class="h5-lg">Quick Contacts:</h5>
 
                     <!-- Text -->
-                    <p>Phone: +91-4042027115</p>
+                    <a href="tel:+914042027115" class="last-link last-link-number">
+                        Phone: +91-4042027115
+                    </a>
 
                 </div>
 

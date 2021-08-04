@@ -66,24 +66,26 @@ const myHTML = `
 
                 <!-- PHONES -->
                 <div class="contact-box wow fadeInUp" data-wow-delay="0.6s">
-                    <h5 class="h5-sm">Contact Phones:</h5>	
-                    <p class="grey-color">Phone : +91-4042027115</p>
+                    <h5 class="h5-sm">Contact Phones:</h5>
+                    <a href="tel:+914042027115" class="grey-color">
+                        Phone: +91-4042027115
+                    </a>
                 </div>
 
                 <!-- WORKING HOURS -->
                 <div class="contact-box wow fadeInUp" data-wow-delay="0.8s">
-                    <h5 class="h5-sm">Office Hours:</h5>	
+                    <h5 class="h5-sm">Office Hours:</h5>
                     <p class="grey-color">Mon - Fri: 8:30am - 7:30pm</p>
                     <p class="grey-color">Saturday: 8:30am - 3:30pm</p>
-                    <p class="grey-color">Sunday: Closed</p>
+                    <p class="grey-color">Sunday: 12:00PM - 5:00PM</p>
                 </div>
 
-            </div>	
+            </div>
         </div>	<!-- END CONTACTS INFO -->
 
 
     </div>	  <!-- End row -->
-</div>	   <!-- End container -->	
+</div>	   <!-- End container -->
 </section>
 `;
 

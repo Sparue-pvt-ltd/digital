@@ -14,7 +14,7 @@ function Services() {
             heroDescription="Are you looking to build a sustainable future for your website? We have a proven record of 
 										achieving your ultimate goal"
           />
-          <Breadcrumb content="Our Services" />
+          <Breadcrumb content="Services" />
           <AllServices />
           <Calltoaction/>
         </div>

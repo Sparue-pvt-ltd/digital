@@ -9,7 +9,7 @@ const myHTML = `
 
         <!-- SERVICE BOX #1 -->
         <div class="col-sm-6 col-lg-3">
-            <a href="/service1">
+            <a href="/service-search-engine-optimisation">
                 <div class="sbox-2 wow fadeInUp" data-wow-delay="0.4s">
 
                     <!-- Icon  -->
@@ -19,34 +19,51 @@ const myHTML = `
                     <h5 class="h5-md">Search Engine Optimisation</h5>
 
                     <!-- Text -->
-                    <p class="p-sm grey-color">Porta semper lacus cursus feugiat and primis ultrice</p>
+                    <p class="p-sm grey-color">We offer unique SEO services to your organization.</p>
 
                 </div>
             </a>
         </div>
-
 
         <!-- SERVICE BOX #2 -->
         <div class="col-sm-6 col-lg-3">
-            <a href="/service2">
-                <div class="sbox-2 wow fadeInUp" data-wow-delay="0.8s">
+            <a href="/service-content-writing-services">
+                <div class="sbox-2 wow fadeInUp" data-wow-delay="0.4s">
 
                     <!-- Icon  -->
-                    <img class="img-85" src="./assets/images/icons/pie-chart.png" alt="feature-icon" />
+                    <img class="img-85" src="./assets/images/icons/computer-1.png" alt="feature-icon" />
 
                     <!-- Title -->
-                    <h5 class="h5-md">Advanced Analytics</h5>
+                    <h5 class="h5-md">Content Marketing</h5>
 
                     <!-- Text -->
-                    <p class="p-sm grey-color">Porta semper lacus cursus feugiat and primis ultrice</p>
+                    <p class="p-sm grey-color">Well-written, spoken content involves viewers and is also an image that you present in the world of the web.</p>
 
                 </div>
             </a>
         </div>
 
-        <!-- SERVICE BOX #8 -->
+        <!-- SERVICE BOX #3 -->
         <div class="col-sm-6 col-lg-3">
-            <a href="/service8">
+            <a href="/service-app-search-optimisation">
+                <div class="sbox-2 wow fadeInUp" data-wow-delay="0.8s">
+
+                    <!-- Icon  -->
+                    <img class="img-85" src="./assets/images/icons/mobile_app.png" alt="feature-icon" />
+
+                    <!-- Title -->
+                    <h5 class="h5-md">App Search Optimisation</h5>
+
+                    <!-- Text -->
+                    <p class="p-sm grey-color">Tell your audience that you are here! With thousands of apps in the app store, it's easy to get lost.</p>
+
+                </div>
+            </a>
+        </div>
+
+        <!-- SERVICE BOX #4 -->
+        <div class="col-sm-6 col-lg-3">
+            <a href="/service-responsive-web-design">
                 <div class="sbox-2 wow fadeInUp" data-wow-delay="1s">
 
                     <!-- Icon  -->
@@ -56,17 +73,15 @@ const myHTML = `
                     <h5 class="h5-md">Responsive Web Design</h5>
 
                     <!-- Text -->
-                    <p class="p-sm grey-color">Porta semper lacus cursus feugiat and primis ultrice</p>
+                    <p class="p-sm grey-color">The share of global traffic for mobile devices will be 82% complete by the end of 2020.</p>
 
                 </div>
             </a>
         </div>
 
-
-
-        <!-- SERVICE BOX #9 -->
+        <!-- SERVICE BOX #5 -->
         <div class="col-sm-6 col-lg-3">
-            <a href="/service9">
+            <a href="/service-intuitive-ui-designs">
                 <div class="sbox-2 wow fadeInUp" data-wow-delay="1s">
 
                     <!-- Icon  -->
@@ -76,131 +91,11 @@ const myHTML = `
                     <h5 class="h5-md">Intuitive UI / UX designs</h5>
 
                     <!-- Text -->
-                    <p class="p-sm grey-color">Porta semper lacus cursus feugiat and primis ultrice</p>
+                    <p class="p-sm grey-color">Accurate design is the sacred grail of any UI / UX.</p>
 
                 </div>
             </a>
         </div>
-
-        
-
-
-        <!-- SERVICE BOX #5 -->
-        <div class="col-sm-6 col-lg-3">
-            <a href="/service5">
-                <div class="sbox-2 wow fadeInUp" data-wow-delay="0.4s">
-
-                    <!-- Icon  -->
-                    <img class="img-85" src="./assets/images/icons/link-1.png" alt="feature-icon" />
-
-                    <!-- Title -->
-                    <h5 class="h5-md">Link-Building</h5>
-                        
-                    <!-- Text -->
-                    <p class="p-sm grey-color">Porta semper lacus cursus feugiat and primis ultrice</p>
-
-                </div>
-            </a>
-        </div>
-
-
-        <!-- SERVICE BOX #6 -->
-        <div class="col-sm-6 col-lg-3">
-            <a href="/service6">
-                <div class="sbox-2 wow fadeInUp" data-wow-delay="0.6s">
-
-                    <!-- Icon  -->
-                    <img class="img-85" src="./assets/images/icons/pay-per-click-2.png" alt="feature-icon" />
-
-                    <!-- Title -->
-                    <h5 class="h5-md">PPC Management</h5>
-                        
-                    <!-- Text -->
-                    <p class="p-sm grey-color">Porta semper lacus cursus feugiat and primis ultrice</p>
-
-                </div>
-            </a>
-        </div>
-
-
-        <!-- SERVICE BOX #8 -->
-        <div class="col-sm-6 col-lg-3">
-            <a href="/service8">
-                <div class="sbox-2 wow fadeInUp" data-wow-delay="1s">
-
-                    <!-- Icon  -->
-                    <img class="img-85" src="./assets/images/icons/user.png" alt="feature-icon" />
-
-                    <!-- Title -->
-                    <h5 class="h5-md">Social Media</h5>
-                        
-                    <!-- Text -->
-                    <p class="p-sm grey-color">Porta semper lacus cursus feugiat and primis ultrice</p>
-
-                </div>
-            </a>
-        </div>
-
-
-        <!-- SERVICE BOX #9 -->
-        <div class="col-sm-6 col-lg-3">
-            <a href="/service9">
-                <div class="sbox-2 wow fadeInUp" data-wow-delay="0.4s">
-
-                    <!-- Icon  -->
-                    <img class="img-85" src="./assets/images/icons/computer-1.png" alt="feature-icon" />
-
-                    <!-- Title -->
-                    <h5 class="h5-md">Content Marketing</h5>
-                        
-                    <!-- Text -->
-                    <p class="p-sm grey-color">Porta semper lacus cursus feugiat and primis ultrice</p>
-
-                </div>
-            </a>
-        </div>
-
-
-        <!-- SERVICE BOX #10 -->
-        <div class="col-sm-6 col-lg-3">
-            <a href="/service10">
-                <div class="sbox-2 wow fadeInUp" data-wow-delay="0.6s">
-
-                    <!-- Icon  -->
-                    <img class="img-85" src="./assets/images/icons/video-player-1.png" alt="feature-icon" />
-
-                    <!-- Title -->
-                    <h5 class="h5-md">Video Marketing</h5>
-                        
-                    <!-- Text -->
-                    <p class="p-sm grey-color">Porta semper lacus cursus feugiat and primis ultrice</p>
-
-                </div>
-            </a>
-        </div>
-
-
-        <!-- SERVICE BOX #11 -->
-        <div class="col-sm-6 col-lg-3">
-            <a href="/service11">
-                <div class="sbox-2 wow fadeInUp" data-wow-delay="0.8s">
-
-                    <!-- Icon  -->
-                    <img class="img-85" src="./assets/images/icons/email-1.png" alt="feature-icon" />
-
-                    <!-- Title -->
-                    <h5 class="h5-md">Email Marketing</h5>
-                        
-                    <!-- Text -->
-                    <p class="p-sm grey-color">Porta semper lacus cursus feugiat and primis ultrice</p>
-
-                </div>
-            </a>
-        </div>
-
-
-        
-
 
     </div>	  <!-- End row -->
 </div>	   <!-- End container -->
