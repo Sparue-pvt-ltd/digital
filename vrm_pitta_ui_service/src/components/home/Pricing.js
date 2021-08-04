@@ -10,12 +10,7 @@ const myHTML = `<section id="pricing-1" class="wide-60 pricing-section division"
         <div class="col-lg-10 offset-lg-1 section-title wow fadeInUp" data-wow-delay="0.2s">
 
             <!-- Title 	-->
-            <h3 class="h3-lg">Simple Pricing, Instant Sign Up</h3>
-
-            <!-- Text -->
-            <p class="p-lg">Aliquam a augue suscipit, luctus neque purus ipsum neque dolor primis libero
-                tempus, blandit posuere and ligula varius magna a porta elementum massa risus
-            </p>
+            <h3 class="h3-lg">Simple Pricing, Instant Service</h3>
 
         </div>
     </div> <!-- END SECTION TITLE -->
@@ -30,9 +25,9 @@ const myHTML = `<section id="pricing-1" class="wide-60 pricing-section division"
 
                 <!-- Plan Price  -->
                 <div class="pricing-plan">
-                    <h5 class="h5-md">SEO Starter</h5>
+                    <h5 class="h5-md">Starter</h5>
                     <sup>$</sup>
-                    <span class="price">3</span>
+                    <span class="price">15</span>
                     <sup class="coins">99</sup>
                 </div>
 
@@ -50,7 +45,7 @@ const myHTML = `<section id="pricing-1" class="wide-60 pricing-section division"
                 </ul>
 
                 <!-- Pricing Table Button  -->
-                <a href="#" class="btn btn-tra-grey black-hover">Get Started</a>
+                <a href="/pricing" class="btn btn-tra-grey black-hover">Get Started</a>
 
             </div>
         </div> <!-- END PRICE PLAN STARTER -->
@@ -62,7 +57,7 @@ const myHTML = `<section id="pricing-1" class="wide-60 pricing-section division"
 
                 <!-- Plan Price  -->
                 <div class="pricing-plan primary-color">
-                    <h5 class="h5-md">SEO Basic</h5>
+                    <h5 class="h5-md">Pro</h5>
                     <sup>$</sup>
                     <span class="price">24</span>
                     <sup class="coins">99</sup>
@@ -82,7 +77,7 @@ const myHTML = `<section id="pricing-1" class="wide-60 pricing-section division"
                 </ul>
 
                 <!-- Pricing Table Button  -->
-                <a href="#" class="btn btn-primary black-hover">Get Started</a>
+                <a href="/pricing" class="btn btn-primary black-hover">Get Started</a>
 
             </div>
         </div> <!-- END PRICE PLAN BASIC -->
@@ -94,7 +89,7 @@ const myHTML = `<section id="pricing-1" class="wide-60 pricing-section division"
 
                 <!-- Plan Price  -->
                 <div class="pricing-plan">
-                    <h5 class="h5-md">SEO Premium</h5>
+                    <h5 class="h5-md">Premium</h5>
                     <sup>$</sup>
                     <span class="price">89</span>
                     <sup class="coins">99</sup>
@@ -114,7 +109,7 @@ const myHTML = `<section id="pricing-1" class="wide-60 pricing-section division"
                 </ul>
 
                 <!-- Pricing Table Button  -->
-                <1<a href="#" class="btn btn-tra-grey black-hover">Upgrade To Premium</a>
+                <1<a href="/pricing" class="btn btn-tra-grey black-hover">Upgrade To Premium</a>
 
             </div>
         </div> <!-- END PRICE PLAN PRO -->

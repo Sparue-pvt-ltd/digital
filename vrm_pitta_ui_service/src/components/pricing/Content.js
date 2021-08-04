@@ -11,113 +11,143 @@ const myHTML = `
 
 
         <!-- PRICE PLAN BASIC -->
-        <div class="col-md-6">
+        <div class="col-md-4">
             <div class="pricing-table wow fadeInLeft" data-wow-delay="0.4s">
 
                 <!-- Plan Price  -->
                 <div class="pricing-plan indigo-color text-center">
-                    <h4 class="h4-xs">Basic Subscription</h4>								
-                    <sup>$</sup>								
-                    <span class="price">24</span>
+                    <h4 class="h4-xs">Starter Subscription</h4>
+                    <sup>$</sup>
+                    <span class="price">15</span>
                     <sup class="coins">99</sup>
                     <p class="p-lg">Limited Access</p>
-                </div>	
+                </div>
 
                 <!-- Pricing Plan Features  -->
                 <ul class="features">
 
-                    <li><span class="indigo-color">Growth Plan</span> - purus ipsum neque dolor primis libero tempus, 
-                        blandit posuere and ligula varius magna porta
+                    <li><span class="indigo-color">Growth Plan</span>
                     </li>
 
-                    <li><span class="indigo-color">Website Monitoring</span> - augue suscipit, luctus and neque purus 
-                        ipsum neque dolor primis libero tempus, blandit posuere
-                    </li>	
-
-                    <li><span class="indigo-color">Weekly Snapshot Email</span> - purus ipsum neque at dolor primis 
-                        libero tempus, blandit posuere and ligula varius
+                    <li><span class="indigo-color">Website Monitoring</span>
                     </li>
 
-                    <li><span class="indigo-color">Benchmarking</span> - iaculis odio auctor integer congue an impedit 
-                        magna viverra dolor vitae donec  mauris lectus laoreet gestas neque undo luctus feugiat lectus 
-                        laoreet gestas neque
+                    <li><span class="indigo-color">Weekly Snapshot Email</span>
                     </li>
 
-                    <li><span class="indigo-color">Daily Health Score</span> - pretium ipsum porta justo integer at 
-                        odio velna vitae auctor integera congue magna
+                    <li><span class="indigo-color">Benchmarking</span>
                     </li>
 
-                    <li><span class="indigo-color">12/7 Free Support</span> - gravida lectus suscipit gestas luctus</li>
+                    <li><span class="indigo-color">Daily Health Score</span>
+                    </li>
+
+                    <li><span class="indigo-color">12/7 Free Support</span>
+                    </li>
 
                 </ul>
 
                 <!-- Pricing Table Button -->
                 <div class="text-center">
-                    <a href="#" class="btn btn-tra-grey black-hover">Get Started</a>
+                    <a href="/contacts" class="btn btn-tra-grey black-hover">Get Started</a>
                 </div>
 
-            </div>	
+            </div>
+        </div>	<!-- END PRICE PLAN BASIC -->
+
+
+        <!-- PRICE PLAN BASIC -->
+        <div class="col-md-4">
+            <div class="pricing-table wow fadeInLeft" data-wow-delay="0.4s">
+
+                <!-- Plan Price  -->
+                <div class="pricing-plan indigo-color text-center">
+                    <h4 class="h4-xs">Pro Subscription</h4>
+                    <sup>$</sup>
+                    <span class="price">24</span>
+                    <sup class="coins">99</sup>
+                    <p class="p-lg">Limited Access</p>
+                </div>
+
+                <!-- Pricing Plan Features  -->
+                <ul class="features">
+
+                    <li><span class="indigo-color">Growth Plan</span>
+                    </li>
+
+                    <li><span class="indigo-color">Website Monitoring</span>
+                    </li>
+
+                    <li><span class="indigo-color">Weekly Snapshot Email</span>
+                    </li>
+
+                    <li><span class="indigo-color">Benchmarking</span>
+                    </li>
+
+                    <li><span class="indigo-color">Daily Health Score</span>
+                    </li>
+
+                    <li><span class="indigo-color">12/7 Free Support</span>
+                    </li>
+
+                </ul>
+
+                <!-- Pricing Table Button -->
+                <div class="text-center">
+                    <a href="/contacts" class="btn btn-tra-grey black-hover">Get Started</a>
+                </div>
+
+            </div>
         </div>	<!-- END PRICE PLAN BASIC -->
 
 
         <!-- PRICE PLAN PRO -->
-        <div class="col-md-6">
+        <div class="col-md-4">
             <div class="pricing-table wow fadeInRight" data-wow-delay="0.4s">
 
                 <!-- Plan Price  -->
                 <div class="pricing-plan indigo-color text-center">
-                    <h4 class="h4-xs">Pro Subscription</h4>	
-                    <sup>$</sup>								
+                    <h4 class="h4-xs">Premium Subscription</h4>
+                    <sup>$</sup>
                     <span class="price">89</span>
                     <sup class="coins">99</sup>
                     <p class="p-lg">Full Access</p>
-                </div>	
+                </div>
 
                 <!-- Pricing Plan Features  -->
                 <ul class="features">
 
-                    <li><span class="indigo-color">Growth Plan</span> - purus ipsum neque dolor primis libero tempus, 
-                        blandit posuere and ligula varius magna porta
+                    <li><span class="indigo-color">Growth Plan</span>
                     </li>
 
-                    <li><span class="indigo-color">Website Monitoring</span> - augue suscipit, luctus and neque purus 
-                        ipsum neque dolor primis libero tempus, blandit posuere
-                    </li>	
-
-                    <li><span class="indigo-color">Weekly Snapshot Email</span> - purus ipsum neque at dolor primis 
-                        libero tempus, blandit posuere and ligula varius
+                    <li><span class="indigo-color">Website Monitoring</span>
                     </li>
 
-                    <li><span class="indigo-color">Benchmarking</span> - iaculis odio auctor integer congue an impedit 
-                        magna viverra dolor vitae donec  mauris lectus laoreet gestas neque undo luctus feugiat lectus 
-                        laoreet gestas neque
+                    <li><span class="indigo-color">Weekly Snapshot Email</span>
                     </li>
 
-                    <li><span class="indigo-color">Daily Health Score</span> - pretium ipsum porta justo integer at 
-                        odio velna vitae auctor integera congue magna
+                    <li><span class="indigo-color">Benchmarking</span>
                     </li>
 
-                    <li><span class="indigo-color">Social Media</span> - augue suscipit, luctus and neque purus ipsum 
-                        neque dolor primis libero tempus, blandit posuere
+                    <li><span class="indigo-color">Daily Health Score</span>
                     </li>
 
-                    <li><span class="indigo-color">SEO & Keywords</span> - iaculis odio auctor integer congue an impedit 
-                        magna viverra dolor vitae donec  mauris lectus laoreet gestas neque undo luctus feugiat lectus laoreet 
-                        gestas neque
+                    <li><span class="indigo-color">Social Media</span>
                     </li>
 
-                    <li><span class="indigo-color">24/7 Free Support</span> - gravida lectus suscipit gestas luctus</li>
+                    <li><span class="indigo-color">SEO & Keywords</span>
+                    </li>
+
+                    <li><span class="indigo-color">24/7 Free Support</span></li>
 
                 </ul>
 
                 <!-- Pricing Table Button -->
                 <div class="text-center">
-                    <a href="#" class="btn btn-primary tra-black-hover">Upgrade To PRO</a>
+                    <a href="/contacts" class="btn btn-primary tra-black-hover">Upgrade To PRO</a>
                 </div>
 
-            </div>	
+            </div>
         </div>	<!-- END PRICE PLAN PRO -->
-        
 
     </div>	<!-- END PRICING TABLES -->
 
