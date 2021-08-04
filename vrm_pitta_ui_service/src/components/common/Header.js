@@ -30,9 +30,6 @@ const myHTML = `
 	      					<nav class="wsmenu clearfix">
 	        					<ul class="wsmenu-list">
 
-                                    <!-- SIMPLE NAVIGATION LINK -->
-                                    <li class="nl-simple" aria-haspopup="true"><a href="/about">About</a></li>
-
 	        						<!-- SIMPLE NAVIGATION LINK -->
 							    	<li aria-haspopup="true"><a href="/services">Services <span class="wsarrow"></span></a>
 									<div class="wsmegamenu clearfix">

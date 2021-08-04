@@ -6,7 +6,6 @@ import { BrowserRouter as Router, Switch, Route} from "react-router-dom";
 //https://medium.com/how-to-react/how-to-use-react-router-in-your-react-js-project-7e1d469a9716
 
 import Home from './pages/Home';
-import About from './pages/About';
 import Services from './pages/Services'
 import Blogs from './pages/Blogs'
 import Contacts from './pages/Contacts'
@@ -19,7 +18,6 @@ const Routing = () => {
     <Router>
       <Switch>
         <Route exact path="/" component={Home} />
-        <Route path="/about" component={About} />
         <Route path="/services" component={Services} />
         <Route path="/pricing" component={Pricing} />
         <Route path="/blogs" component={Blogs} />

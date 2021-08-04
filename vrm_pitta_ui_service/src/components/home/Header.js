@@ -20,8 +20,6 @@ const myHTML = `
               <nav class="wsmenu clearfix blue-header">
                 <ul class="wsmenu-list">
 
-                    <li class="nl-simple" aria-haspopup="true"><a href="/about">About</a></li>
-
                     <li aria-haspopup="true"><a href="/services">Services <span class="wsarrow"></span></a>
 	            						<div class="wsmegamenu clearfix">
 	             							<div class="container">
