@@ -60,7 +60,7 @@ const myHTML = `
                     <p class="grey-color">Minneapolis, MN 55414</p>
                     <br/>
                     <p class="grey-color"><strong>India Address:</strong></p>
-                    <p class="grey-color">2nd Floor, H No 2-56/10/A, Chanda Naik Nager,</p>
+                    <p class="grey-color">2nd Floor, H No 2-56/10/A, Chanda Naik Nagar,</p>
                     <p class="grey-color">Near Ayyappa society Madhapur, Hyderabad</p>
                 </div>
 
