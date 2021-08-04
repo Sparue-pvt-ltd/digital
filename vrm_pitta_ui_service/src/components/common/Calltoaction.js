@@ -26,7 +26,7 @@ const myHTML = `
         <!-- CALL TO ACTION BUTTON -->
         <div class="col-lg-4">
             <div class="cta-btn text-right">
-                <a href="/" class="btn btn-md btn-primary tra-white-hover">Get Started Now</a>
+                <a href="/contacts" class="btn btn-md btn-primary tra-white-hover">Get Started Now</a>
             </div>
         </div>	
 
