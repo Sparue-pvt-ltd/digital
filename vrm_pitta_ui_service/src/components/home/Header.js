@@ -130,9 +130,6 @@ const myHTML = `
 
                     <li class="nl-simple" aria-haspopup="true"><a href="/pricing">Pricing</a></li>
 
-
-									  <li class="nl-simple" aria-haspopup="true"><a href="/blogs">Blogs</a></li>
-
                     <li class="nl-simple" aria-haspopup="true"><a href="/contacts">Contacts</a></li>
 
                     <li class="nl-simple primary-scroll" aria-haspopup="true">

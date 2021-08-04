@@ -143,9 +143,6 @@ const myHTML = `
 									<!-- SIMPLE NAVIGATION LINK -->
 							    	<li class="nl-simple" aria-haspopup="true"><a href="/pricing">Pricing</a></li>
 
-									<!-- SIMPLE NAVIGATION LINK -->
-									<li class="nl-simple" aria-haspopup="true"><a href="/blogs">Blogs</a></li>
-
 							    	<!-- SIMPLE NAVIGATION LINK -->
 							    	<li class="nl-simple" aria-haspopup="true"><a href="/contacts">Contacts</a></li>
 

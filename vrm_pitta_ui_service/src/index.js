@@ -7,11 +7,9 @@ import { BrowserRouter as Router, Switch, Route} from "react-router-dom";
 
 import Home from './pages/Home';
 import Services from './pages/Services'
-import Blogs from './pages/Blogs'
 import Contacts from './pages/Contacts'
 import Pricing from './pages/Pricing'
 import SingleService from './pages/SingleService';
-import SingleBlog from './pages/SingleBlog';
 
 const Routing = () => {
   return(
@@ -20,10 +18,8 @@ const Routing = () => {
         <Route exact path="/" component={Home} />
         <Route path="/services" component={Services} />
         <Route path="/pricing" component={Pricing} />
-        <Route path="/blogs" component={Blogs} />
         <Route path="/contacts" component={Contacts} />
         <Route path="/service:id" component={SingleService} />
-        <Route path="/single-post:id" component={SingleBlog} />
         <Route path="*" component={Home} />
       </Switch>
     </Router>
