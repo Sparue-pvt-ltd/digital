@@ -5459,9 +5459,9 @@ a.share-ico {
   background-size: cover;
 }
 
-#about-page.page-hero-section {
+/* #about-page.page-hero-section {
   background-image: url(../images/about-page.jpg);
-}
+} */
 
 #services-page.page-hero-section {
   background-image: url(../images/services-page.jpg);
@@ -5475,11 +5475,11 @@ a.share-ico {
   background-image: url(../images/pricing-page.jpg);
 }
 
-#team-page.page-hero-section {
+/* #team-page.page-hero-section {
   background-image: url(../images/team-page.jpg);
-}
+} */
 
-#reviews-page.page-hero-section {
+/* #reviews-page.page-hero-section {
   background-image: url(../images/reviews-page.html);
 }
 
@@ -5489,13 +5489,13 @@ a.share-ico {
 
 #faqs-page.page-hero-section {
   background-image: url(../images/faqs-page.jpg);
-}
+} */
 
 #contacts-page.page-hero-section {
   background-image: url(../images/contacts-page.jpg);
 }
 
-#case-studies-page.page-hero-section {
+/* #case-studies-page.page-hero-section {
   background-image: url(../images/case-studies-page.jpg);
 }
 
@@ -5506,7 +5506,7 @@ a.share-ico {
 
 #blog-listing-page.page-hero-section {
   background-image: url(../images/blog-listing-page.jpg);
-}
+} */
 
 /*------------------------------------------*/
 /*  INNER PAGE HERO TYPOGRAPHY
