@@ -12,7 +12,7 @@
 		var preloader = $('#loader-wrapper'),
 			loader = preloader.find('.loading-center');
 			loader.fadeOut();
-			preloader.delay(400).fadeOut('slow');
+			preloader.delay(20).fadeOut('slow');
 				
 	});
 
