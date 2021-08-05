@@ -61,7 +61,7 @@ const myHTML = `
                     <br/>
                     <p class="grey-color"><strong>India Address:</strong></p>
                     <p class="grey-color">2nd Floor, H No 2-56/10/A, Chanda Naik Nagar,</p>
-                    <p class="grey-color">Near Ayyappa society Madhapur, Hyderabad</p>
+                    <p class="grey-color">Near Ayyappa society Madhapur, Hyderabad, 500081 </p>
                 </div>
 
                 <!-- PHONES -->
