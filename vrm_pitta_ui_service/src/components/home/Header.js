@@ -38,7 +38,7 @@ const myHTML = `
 
                     <li class="nl-simple" aria-haspopup="true"><a href="/pricing">Pricing</a></li>
 
-                    <li class="nl-simple" aria-haspopup="true"><a href="/contacts">Contacts</a></li>
+                    <li class="nl-simple" aria-haspopup="true"><a href="/contacts">Contact Us</a></li>
 
                     <li class="nl-simple primary-scroll" aria-haspopup="true">
                         <a href="tel:+914042027115" class="last-link last-link-number">

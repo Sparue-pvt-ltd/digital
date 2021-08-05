@@ -49,7 +49,7 @@ const myHTML = `
 							    	<li class="nl-simple" aria-haspopup="true"><a href="/pricing">Pricing</a></li>
 
 							    	<!-- SIMPLE NAVIGATION LINK -->
-							    	<li class="nl-simple" aria-haspopup="true"><a href="/contacts">Contacts</a></li>
+							    	<li class="nl-simple" aria-haspopup="true"><a href="/contacts">Contact Us</a></li>
 
 								    <!-- HEADER PHONE NUMBER -->
 								    <li class="nl-simple primary-scroll" aria-haspopup="true">
