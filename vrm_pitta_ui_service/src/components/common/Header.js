@@ -9,8 +9,7 @@ const myHTML = `
 					<!-- MOBILE HEADER -->
 				    <div class="wsmobileheader clearfix">
 				    	<a id="wsnavtoggle" class="wsanimated-arrow"><span></span></a>
-				    	<span class="smllogo smllogo-black"><img src="./assets/images/vrm_pitta.png" width="80" height="40" alt="mobile-logo"/></span>
-				    	<span class="smllogo smllogo-white"><img src="./assets/images/vrm_pitta.png" width="80" height="40" alt="mobile-logo"/></span>
+						<a href="/"><span class="smllogo smllogo-black"><img src="./assets/images/vrm_pitta.png" width="80" height="40" alt="mobile-logo"/></span></a>
 				    	<a href="tel:+914042027115" class="callusbtn"><i class="fas fa-phone"></i></a>
 				 	</div>
 
@@ -23,7 +22,6 @@ const myHTML = `
 	    					<!-- LOGO IMAGE -->
 	    					<!-- For Retina Ready displays take a image with double the amount of pixels that your image will be displayed (e.g 334 x 80 pixels) -->
 	    					<div class="desktoplogo"><a href="/" class="logo-black"><img src="./assets/images/vrm_pitta.png" width="80" height="40" alt="header-logo"></a></div>
-	    					<div class="desktoplogo"><a href="/" class="logo-white"><img src="./assets/images/vrm_pitta.png" width="80" height="40" alt="header-logo"></a></div>
 
 
 	    					<!-- MAIN MENU -->

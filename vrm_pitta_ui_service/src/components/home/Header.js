@@ -6,8 +6,7 @@ const myHTML = `
 <div class="header-wrapper">
     <div class="wsmobileheader clearfix">
         <a id="wsnavtoggle" class="wsanimated-arrow"><span></span></a>
-        <span class="smllogo smllogo-black"><img src="./assets/images/vrm_pitta.png" width="80" height="40" alt="mobile-logo"/></span>
-        
+        <a href="/"><span class="smllogo smllogo-black"><img src="./assets/images/vrm_pitta.png" width="80" height="40" alt="mobile-logo"/></span></a>
         <a href="tel:+914042027115" class="callusbtn"><i class="fas fa-phone"></i></a>
      </div>
 
