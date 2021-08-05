@@ -38,30 +38,6 @@ function SingleService() {
       servicedescription:
         "We are a creative digital branding agency for building the identity of the lucid concept and ideas that connect across borders. Our multidisciplinary team of creative professionals have successfully developed new product ownership and translated existing products to promote and communicate freely across all platforms. We believe that a systematic and simple approach is the key to a product-specific agency, which is why we try to solve problems with a systematic yet living system. Our approach has played a role in building ownership of successful brands that form an integral part of the product for years.",
       serviceImageURL: "./assets/images/creative.png",
-    },
-    "react-development":{
-      serviceTitle: "React.js Development",
-      servicedescription:
-        "Creating a simple, flexible and integrated UI with ReactJS. ReactJS is a User Interface library used to create easy, easy-to-use connections in both single-page applications and on a large scale when combined with other libraries. Use ReactJS helps your business build powerful, advanced and web-based applications, and offers the benefits of speed and comparability, compared to building other UI libraries",
-      serviceImageURL: "./assets/images/react.png",
-    },
-    "node-development":{
-      serviceTitle: "Node.js Development",
-      servicedescription:
-        "Excel at building light, scalable, real-time event drive models. NodeJS is an open-source platform that has been gaining steady popularity, owing to its ease in building scalable applications and server tools, that are predominantly data-intense, input/output based and yet lightweight. Node.js works like a charm on event-driven servers, which are based on real-time, and can use multiple frameworks like Express.js, Mojito, Hapi.js etc. This makes it a perfect choice for applications involving live streaming, or non-blocking paradigms like drone programming, online gaming and robotics.",
-      serviceImageURL: "./assets/images/node.png",
-    },
-    "responsive-web-design":{
-      serviceTitle: "Responsive Web Design",
-      servicedescription:
-        "The share of global traffic for mobile devices will be 82% complete by the end of 2020. Businesses, regardless of product type and size, lose their appeal and fall behind because their website does not respond to mobile phones. Google ranks websites based on responses, and it's no surprise that more than 7 out of 10 visitors stop participating, go back and try another website",
-      serviceImageURL: "./assets/images/responsive-web-design-caktus.png",
-    },
-    "intuitive-ui-designs":{
-      serviceTitle: "Intuitive UI / UX designs",
-      servicedescription:
-        "Accurate design is the sacred grail of any UI / UX. In the blue syntax, we naturally understand that the concept of intuition is not only about good features but also about good design, improved availability and leading the user to what he or she wants.",
-      serviceImageURL: "./assets/images/ui.png",
     }
   };
 
@@ -71,7 +47,7 @@ function SingleService() {
         <div class="inner-page-wrapper">
           <Hero
             cssId="service-details-page"
-            heroTitle="Our Services"
+            heroTitle={data[id].serviceTitle}
             heroDescription="Are you looking to build a sustainable future for your website? We have a proven record of
 										achieving your ultimate goal"
           />
