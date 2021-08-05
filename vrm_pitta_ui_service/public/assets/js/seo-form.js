@@ -26,20 +26,33 @@ $(document).ready(function() {
         }
         var dataString = "email=" + email.val() + "&url=" + url.val();
         $(".loading").fadeIn("slow").html("Loading...");
-        $.ajax({
-            type: "POST",
-            data: dataString,
-            url: "php/seoForm.php",
-            cache: false,
-            success: function (d) {
-                $(".form-control").removeClass("success");
-					if(d == 'success') // Message Sent? Show the 'Thank You' message and hide the form
-						$('.loading').fadeIn('slow').html('<font color="#48af4b">Mail sent Successfully.</font>').delay(3000).fadeOut('slow');
-					else
-						$('.loading').fadeIn('slow').html('<font color="#ff5607">Mail not sent.</font>').delay(3000).fadeOut('slow');
+        // $.ajax({
+        //     type: "POST",
+        //     data: dataString,
+        //     url: "php/seoForm.php",
+        //     cache: false,
+        //     success: function (d) {
+        //         $(".form-control").removeClass("success");
+		// 			if(d == 'success') // Message Sent? Show the 'Thank You' message and hide the form
+		// 				$('.loading').fadeIn('slow').html('<font color="#48af4b">Mail sent Successfully.</font>').delay(3000).fadeOut('slow');
+		// 			else
+		// 				$('.loading').fadeIn('slow').html('<font color="#ff5607">Mail not sent.</font>').delay(3000).fadeOut('slow');
 
-								  }
-        });
+		// 						  }
+        // });
+        var templateParams = {
+            url: url.val(),
+            email: email.val(),
+        };
+         
+        emailjs.send('service_maoxlec', 'template_av88ddd', templateParams)
+            .then(function(response) {
+               console.log('SUCCESS!', response.status, response.text);
+               $('.loading').fadeIn('slow').html('<font color="#48af4b">Mail sent Successfully.</font>').delay(3000).fadeOut('slow');
+            }, function(error) {
+               console.log('FAILED...', error);
+               $('.loading').fadeIn('slow').html('<font color="#ff5607">Mail not sent.</font>').delay(3000).fadeOut('slow');
+            });
         return false;
     });
     $("#reset").on('click', function() {
