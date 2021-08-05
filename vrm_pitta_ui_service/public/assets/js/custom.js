@@ -41,16 +41,16 @@
 		"use strict";
 		
 
-		/*----------------------------------------------------*/
-		/*	Hero Slider
-		/*----------------------------------------------------*/
+		// /*----------------------------------------------------*/
+		// /*	Hero Slider
+		// /*----------------------------------------------------*/
 
-		$('.slider').slider({
-			full_width: false,
-			interval:6000,
-			transition:1000,
-			draggable: false,
-		});
+		// $('.slider').slider({
+		// 	full_width: false,
+		// 	interval:6000,
+		// 	transition:1000,
+		// 	draggable: false,
+		// });
 
 
 		/*----------------------------------------------------*/
@@ -145,75 +145,75 @@
 		/*	Tabs #1
 		/*----------------------------------------------------*/
 
-		$('ul.tabs-1 li').on('click', function(){
-			var tab_id = $(this).attr('data-tab');
+		// $('ul.tabs-1 li').on('click', function(){
+		// 	var tab_id = $(this).attr('data-tab');
 
-			$('ul.tabs-1 li').removeClass('displayed');
-			$('.tab-content').removeClass('displayed');
+		// 	$('ul.tabs-1 li').removeClass('displayed');
+		// 	$('.tab-content').removeClass('displayed');
 
-			$(this).addClass('displayed');
-			$("#"+tab_id).addClass('displayed');
-		});
+		// 	$(this).addClass('displayed');
+		// 	$("#"+tab_id).addClass('displayed');
+		// });
 
 
 		/*----------------------------------------------------*/
 		/*	Single Image Lightbox
 		/*----------------------------------------------------*/
 				
-		$('.image-link').magnificPopup({
-		  type: 'image'
-		});	
+		// $('.image-link').magnificPopup({
+		//   type: 'image'
+		// });	
 
 
 		/*----------------------------------------------------*/
 		/*	Video Link #1 Lightbox
 		/*----------------------------------------------------*/
 		
-		$('.video-popup1').magnificPopup({
-		    type: 'iframe',		  	  
-				iframe: {
-					patterns: {
-						youtube: {			   
-							index: 'youtube.com',
-							src: 'https://www.youtube.com/embed/SZEflIVnhH8'				
-								}
-							}
-						}		  		  
-		});
+		// $('.video-popup1').magnificPopup({
+		//     type: 'iframe',		  	  
+		// 		iframe: {
+		// 			patterns: {
+		// 				youtube: {			   
+		// 					index: 'youtube.com',
+		// 					src: 'https://www.youtube.com/embed/SZEflIVnhH8'				
+		// 						}
+		// 					}
+		// 				}		  		  
+		// });
 
 
 		/*----------------------------------------------------*/
 		/*	Video Link #2 Lightbox
 		/*----------------------------------------------------*/
 		
-		$('.video-popup2').magnificPopup({
-		    type: 'iframe',		  	  
-				iframe: {
-					patterns: {
-						youtube: {			   
-							index: 'youtube.com',
-							src: 'https://www.youtube.com/embed/7e90gBu4pas'				
-								}
-							}
-						}		  		  
-		});
+		// $('.video-popup2').magnificPopup({
+		//     type: 'iframe',		  	  
+		// 		iframe: {
+		// 			patterns: {
+		// 				youtube: {			   
+		// 					index: 'youtube.com',
+		// 					src: 'https://www.youtube.com/embed/7e90gBu4pas'				
+		// 						}
+		// 					}
+		// 				}		  		  
+		// });
 
 
 		/*----------------------------------------------------*/
 		/*	Video Link #3 Lightbox
 		/*----------------------------------------------------*/
 		
-		$('.video-popup3').magnificPopup({
-		    type: 'iframe',		  	  
-				iframe: {
-					patterns: {
-						youtube: {			   
-							index: 'youtube.com',
-							src: 'https://www.youtube.com/embed/0gv7OC9L2s8'					
-								}
-							}
-						}		  		  
-		});
+		// $('.video-popup3').magnificPopup({
+		//     type: 'iframe',		  	  
+		// 		iframe: {
+		// 			patterns: {
+		// 				youtube: {			   
+		// 					index: 'youtube.com',
+		// 					src: 'https://www.youtube.com/embed/0gv7OC9L2s8'					
+		// 						}
+		// 					}
+		// 				}		  		  
+		// });
 
 
 		/*----------------------------------------------------*/
@@ -239,101 +239,101 @@
 		/*	Testimonials Rotator
 		/*----------------------------------------------------*/
 	
-		var owl = $('.reviews-holder');
-			owl.owlCarousel({
-				items: 2,
-				loop:true,
-				autoplay:true,
-				navBy: 1,
-				autoplayTimeout: 4500,
-				autoplayHoverPause: true,
-				smartSpeed: 1500,
-				responsive:{
-					0:{
-						items:1
-					},
-					767:{
-						items:1
-					},
-					768:{
-						items:2
-					},
-					991:{
-						items:2
-					},
-					1000:{
-						items:2
-					}
-				}
-		});
+		// var owl = $('.reviews-holder');
+		// 	owl.owlCarousel({
+		// 		items: 2,
+		// 		loop:true,
+		// 		autoplay:true,
+		// 		navBy: 1,
+		// 		autoplayTimeout: 4500,
+		// 		autoplayHoverPause: true,
+		// 		smartSpeed: 1500,
+		// 		responsive:{
+		// 			0:{
+		// 				items:1
+		// 			},
+		// 			767:{
+		// 				items:1
+		// 			},
+		// 			768:{
+		// 				items:2
+		// 			},
+		// 			991:{
+		// 				items:2
+		// 			},
+		// 			1000:{
+		// 				items:2
+		// 			}
+		// 		}
+		// });
 
 
 		/*----------------------------------------------------*/
 		/*	Testimonials Rotator Flexslider
 		/*----------------------------------------------------*/
 		
-		$('#reviews-2 .flexslider').flexslider({
-			animation: "fade",
-			controlNav: true,
-			directionNav: false,  
-			slideshowSpeed: 6000,   
-			animationSpeed: 2000,  
-			start: function(slider){
-				$('body').removeClass('loading');
-			}
-		});	
+		// $('#reviews-2 .flexslider').flexslider({
+		// 	animation: "fade",
+		// 	controlNav: true,
+		// 	directionNav: false,  
+		// 	slideshowSpeed: 6000,   
+		// 	animationSpeed: 2000,  
+		// 	start: function(slider){
+		// 		$('body').removeClass('loading');
+		// 	}
+		// });	
 
 
 		/*----------------------------------------------------*/
 		/*	Brands Logo Rotator
 		/*----------------------------------------------------*/
 	
-		var owl = $('.brands-carousel');
-			owl.owlCarousel({
-				items: 5,
-				loop:true,
-				autoplay:true,
-				navBy: 1,
-				autoplayTimeout: 4000,
-				autoplayHoverPause: false,
-				smartSpeed: 2000,
-				responsive:{
-					0:{
-						items:2
-					},
-					550:{
-						items:3
-					},
-					767:{
-						items:3
-					},
-					768:{
-						items:4
-					},
-					991:{
-						items:4
-					},				
-					1000:{
-						items:5
-					}
-				}
-		});
+		// var owl = $('.brands-carousel');
+		// 	owl.owlCarousel({
+		// 		items: 5,
+		// 		loop:true,
+		// 		autoplay:true,
+		// 		navBy: 1,
+		// 		autoplayTimeout: 4000,
+		// 		autoplayHoverPause: false,
+		// 		smartSpeed: 2000,
+		// 		responsive:{
+		// 			0:{
+		// 				items:2
+		// 			},
+		// 			550:{
+		// 				items:3
+		// 			},
+		// 			767:{
+		// 				items:3
+		// 			},
+		// 			768:{
+		// 				items:4
+		// 			},
+		// 			991:{
+		// 				items:4
+		// 			},				
+		// 			1000:{
+		// 				items:5
+		// 			}
+		// 		}
+		// });
 
 
 		/*----------------------------------------------------*/
 		/*	Reviews Grid
 		/*----------------------------------------------------*/
 
-		$('.grid-loaded').imagesLoaded(function () {
-	        var $grid = $('.masonry-wrap').isotope({
-	            itemSelector: '.masonry-item',
-	            percentPosition: true,
-	            transitionDuration: '0.7s',
-	            masonry: {
-	              columnWidth: '.masonry-item',
-	            }
-	        });	        
-	    });
+		// $('.grid-loaded').imagesLoaded(function () {
+	    //     var $grid = $('.masonry-wrap').isotope({
+	    //         itemSelector: '.masonry-item',
+	    //         percentPosition: true,
+	    //         transitionDuration: '0.7s',
+	    //         masonry: {
+	    //           columnWidth: '.masonry-item',
+	    //         }
+	    //     });	        
+	    // });
 
 
 		/*----------------------------------------------------*/
